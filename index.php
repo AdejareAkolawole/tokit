@@ -24,7 +24,7 @@
                 <span class="text-2xl font-bold tracking-tight">Tool<span class="text-blue-600">Hub</span></span>
             </div>
             <div class="hidden md:flex items-center gap-8 font-medium text-gray-600 text-sm">
-                <a href="#tools" class="hover:text-blue-600 transition-colors">Tools</a>
+                <a href="all-tools.php" class="hover:text-blue-600 transition-colors">Tools</a>
                 <a href="#how-it-works" class="hover:text-blue-600 transition-colors">How it Works</a>
                 <a href="#features" class="hover:text-blue-600 transition-colors">Features</a>
                 <a href="https://github.com" class="bg-gray-900 text-white px-5 py-2.5 rounded-full hover:bg-gray-800 transition-all">Get Started</a>
@@ -40,7 +40,7 @@
             The ultimate toolkit for creators. Fast, secure, and completely free. No registration required.
         </p>
         <div class="flex flex-col sm:flex-row items-center justify-center gap-4">
-            <a href="#tools" class="bg-blue-600 text-white px-10 py-4 rounded-full font-bold shadow-xl shadow-blue-100 hover:bg-blue-700 hover:scale-105 transition-all">
+            <a href="all-tools.php" class="bg-blue-600 text-white px-10 py-4 rounded-full font-bold shadow-xl shadow-blue-100 hover:bg-blue-700 hover:scale-105 transition-all">
                 Start Using Tools
             </a>
         </div>
@@ -71,11 +71,11 @@
                 <span class="text-pink-500 font-bold text-sm">Launch Tool <i class="fa-solid fa-chevron-right ml-1"></i></span>
             </a>
 
-            <a href="tools/pdf-to-word.php" class="tool-card bg-gray-50 border border-transparent p-8 rounded-3xl hover:bg-white hover:border-blue-100 hover:shadow-2xl transition-all group">
+            <a href="tools/pdf-reviser.php" class="tool-card bg-gray-50 border border-transparent p-8 rounded-3xl hover:bg-white hover:border-blue-100 hover:shadow-2xl transition-all group">
                 <div class="bg-orange-500 w-12 h-12 rounded-2xl flex items-center justify-center mb-6 shadow-lg shadow-orange-200">
                     <i class="fa-solid fa-file-pdf text-white text-xl"></i>
                 </div>
-                <h3 class="text-xl font-bold mb-3">PDF-to-WORD</h3>
+                <h3 class="text-xl font-bold mb-3">PDF</h3>
                 <p class="text-gray-500 mb-6">Edit, merge, and modify PDF files directly in your browser.</p>
                 <span class="text-orange-500 font-bold text-sm">Launch Tool <i class="fa-solid fa-chevron-right ml-1"></i></span>
             </a>
