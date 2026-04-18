@@ -40,7 +40,7 @@
                 $socialTools = [
                     ['name' => 'TikTok Downloader', 'desc' => 'No watermark MP4 downloads', 'icon' => 'fa-brands fa-tiktok', 'color' => 'pink', 'link' => 'tiktok-downloader.php', 'status' => 'Live'],
                     ['name' => 'Instagram Saver', 'desc' => 'Download Reels, Posts & Stories', 'icon' => 'fa-brands fa-instagram', 'color' => 'rose', 'link' => 'instagram-downloader.php', 'status' => 'Live'],
-                    ['name' => 'YouTube Thumbnails', 'desc' => 'Get HD video cover images', 'icon' => 'fa-brands fa-youtube', 'color' => 'red', 'link' => 'yt-thumb.php'],
+                    ['name' => 'YouTube Thumbnails', 'desc' => 'Get HD video cover images', 'icon' => 'fa-brands fa-youtube', 'color' => 'red', 'link' => 'yt-thumbnail.php', 'status' => 'Live'],
                     ['name' => 'Twitter Video', 'desc' => 'Save videos from X / Twitter', 'icon' => 'fa-brands fa-x-twitter', 'color' => 'slate', 'link' => 'twitter-down.php'],
                     ['name' => 'Facebook Video', 'desc' => 'Public video downloader', 'icon' => 'fa-brands fa-facebook', 'color' => 'blue', 'link' => 'fb-down.php'],
                 ];
@@ -92,7 +92,7 @@
             <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6">
                 <?php
                 $devTools = [
-                    ['name' => 'Password Gen', 'desc' => 'High-security passwords', 'icon' => 'fa-solid fa-key', 'color' => 'purple', 'link' => 'password-gen.php'],
+                    ['name' => 'Password Gen', 'desc' => 'High-security passwords', 'icon' => 'fa-solid fa-key', 'color' => 'purple', 'link' => 'password-gen.php', 'status' => 'Live'],
                     ['name' => 'JSON Beautifier', 'desc' => 'Format messy code', 'icon' => 'fa-solid fa-brackets-curly', 'color' => 'amber', 'link' => 'json-format.php'],
                     ['name' => 'Base64 Tool', 'desc' => 'Encode/Decode data strings', 'icon' => 'fa-solid fa-code', 'color' => 'cyan', 'link' => 'base64.php'],
                     ['name' => 'Unit Converter', 'desc' => 'Length, Weight, Temp', 'icon' => 'fa-solid fa-ruler-combined', 'color' => 'green', 'link' => 'unit-converter.php'],
